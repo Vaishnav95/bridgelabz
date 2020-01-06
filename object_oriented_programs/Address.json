@@ -1,0 +1,31 @@
+{
+    "data": [
+        {
+            "first_name": "poco",
+            "last_name": "loco",
+            "address": "queens",
+            "city": "bangalore",
+            "state": "hokkaido",
+            "zip_code": "43545",
+            "phone_no": "878754654"
+        },
+        {
+            "first_name": "vanessa",
+            "last_name": "fernandes",
+            "address": "chicago",
+            "city": "newyork",
+            "state": "nevada",
+            "zip_code": "40009",
+            "phone_no": "43953985"
+        },
+        {
+            "first_name": "vaish",
+            "last_name": "rocco",
+            "address": "mumbai",
+            "city": "bombay",
+            "state": "maharashtra",
+            "zip_code": "400029",
+            "phone_no": "49350345"
+        }
+    ]
+}
